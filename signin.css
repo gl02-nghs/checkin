@@ -1,0 +1,3 @@
+
+    .sig-rotate { transform: rotate(-90deg); }
+    #canvas { touch-action: none; background: #fff; cursor: crosshair; }
